@@ -1,0 +1,7 @@
+interface:
+  display_name: "Dokploy Agentic Deployer"
+  short_description: "Despliega microservicios internos en Dokploy"
+  default_prompt: "Usa $dokploy-agentic-microservice-deployer para desplegar esta automatizacion como microservicio interno en Dokploy para n8n."
+
+policy:
+  allow_implicit_invocation: true
